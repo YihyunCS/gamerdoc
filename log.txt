@@ -1,0 +1,288 @@
+File: loader (1) copy.exe
+Signature: 460a51b948a55f7bec120112ffdbbc5a18768ad882518c2aca0065c2177f77e8
+File Size (Bytes): 8251392
+Has Cheat API Calls: True
+API Hash ID: 5daf34363d57d0d7cc20d390437a57951ea2282a0f67ba70e3babd0968ee955f
+Detected API Calls:
+	WSACleanup
+	CertCloseStore
+	GetVersion
+	GetProcessWindowStation
+	CryptAcquireContextW
+	_strtod_l
+	_access_s
+	_aligned_free
+	___lc_codepage_func
+	memchr
+	__p___argc
+	__acrt_iob_func
+	_isctype_l
+	__daylight
+	qsort
+	_mbtowc_l
+	__setusermatherr
+	_getch
+	__p__environ
+	WTSSendMessageW
+	GetSystemTimeAsFileTime
+	GetUserObjectInformationW
+	LocalAlloc
+	LocalFree
+	GetModuleFileNameW
+	GetProcessAffinityMask
+	SetProcessAffinityMask
+	SetThreadAffinityMask
+	Sleep
+	ExitProcess
+	FreeLibrary
+	LoadLibraryA
+	GetModuleHandleA
+	GetProcAddress
+	GetProcessWindowStation
+	GetUserObjectInformationW
+PE Header Information:
+	Machine: 0x8664
+	Characteristics: 0x22
+	Sections: 9
+	EntryPoint: 0x108dc19
+
+File: loader (2) 2.exe
+Signature: 8e38947a40d3b81c1c217673194f5418a1abd5df752313d475ac04e2dd42c200
+File Size (Bytes): 8250368
+Has Cheat API Calls: True
+API Hash ID: 5daf34363d57d0d7cc20d390437a57951ea2282a0f67ba70e3babd0968ee955f
+Detected API Calls:
+	WSACleanup
+	CertCloseStore
+	GetVersion
+	GetProcessWindowStation
+	CryptAcquireContextW
+	_strtod_l
+	_access_s
+	_aligned_free
+	___lc_codepage_func
+	memchr
+	__p___argc
+	__acrt_iob_func
+	_isctype_l
+	__daylight
+	qsort
+	_mbtowc_l
+	__setusermatherr
+	_getch
+	__p__environ
+	WTSSendMessageW
+	GetSystemTimeAsFileTime
+	GetUserObjectInformationW
+	LocalAlloc
+	LocalFree
+	GetModuleFileNameW
+	GetProcessAffinityMask
+	SetProcessAffinityMask
+	SetThreadAffinityMask
+	Sleep
+	ExitProcess
+	FreeLibrary
+	LoadLibraryA
+	GetModuleHandleA
+	GetProcAddress
+	GetProcessWindowStation
+	GetUserObjectInformationW
+PE Header Information:
+	Machine: 0x8664
+	Characteristics: 0x22
+	Sections: 9
+	EntryPoint: 0x111cb1c
+
+File: loader (1).exe
+Signature: 7b2ac5087dc4d782eb440deb6cb1be477ed3061b7fba610021d234a6e7932fc4
+File Size (Bytes): 8251392
+Has Cheat API Calls: True
+API Hash ID: 5daf34363d57d0d7cc20d390437a57951ea2282a0f67ba70e3babd0968ee955f
+Detected API Calls:
+	WSACleanup
+	CertCloseStore
+	GetVersion
+	GetProcessWindowStation
+	CryptAcquireContextW
+	_strtod_l
+	_access_s
+	_aligned_free
+	___lc_codepage_func
+	memchr
+	__p___argc
+	__acrt_iob_func
+	_isctype_l
+	__daylight
+	qsort
+	_mbtowc_l
+	__setusermatherr
+	_getch
+	__p__environ
+	WTSSendMessageW
+	GetSystemTimeAsFileTime
+	GetUserObjectInformationW
+	LocalAlloc
+	LocalFree
+	GetModuleFileNameW
+	GetProcessAffinityMask
+	SetProcessAffinityMask
+	SetThreadAffinityMask
+	Sleep
+	ExitProcess
+	FreeLibrary
+	LoadLibraryA
+	GetModuleHandleA
+	GetProcAddress
+	GetProcessWindowStation
+	GetUserObjectInformationW
+PE Header Information:
+	Machine: 0x8664
+	Characteristics: 0x22
+	Sections: 9
+	EntryPoint: 0xe69a90
+
+File: loader (2).exe
+Signature: 56be0db8f7afbb1fd4e166ef788871820fbfb297c1884338d35ce3e96d6f8e2e
+File Size (Bytes): 8254464
+Has Cheat API Calls: True
+API Hash ID: 5daf34363d57d0d7cc20d390437a57951ea2282a0f67ba70e3babd0968ee955f
+Detected API Calls:
+	WSACleanup
+	CertCloseStore
+	GetVersion
+	GetProcessWindowStation
+	CryptAcquireContextW
+	_strtod_l
+	_access_s
+	_aligned_free
+	___lc_codepage_func
+	memchr
+	__p___argc
+	__acrt_iob_func
+	_isctype_l
+	__daylight
+	qsort
+	_mbtowc_l
+	__setusermatherr
+	_getch
+	__p__environ
+	WTSSendMessageW
+	GetSystemTimeAsFileTime
+	GetUserObjectInformationW
+	LocalAlloc
+	LocalFree
+	GetModuleFileNameW
+	GetProcessAffinityMask
+	SetProcessAffinityMask
+	SetThreadAffinityMask
+	Sleep
+	ExitProcess
+	FreeLibrary
+	LoadLibraryA
+	GetModuleHandleA
+	GetProcAddress
+	GetProcessWindowStation
+	GetUserObjectInformationW
+PE Header Information:
+	Machine: 0x8664
+	Characteristics: 0x22
+	Sections: 9
+	EntryPoint: 0xb43b3d
+
+File: loader (3).exe
+Signature: 037215609549365ad9cbf39900ea433fc2bc332d7c5108572d828e3403f4b31c
+File Size (Bytes): 8270848
+Has Cheat API Calls: True
+API Hash ID: 5daf34363d57d0d7cc20d390437a57951ea2282a0f67ba70e3babd0968ee955f
+Detected API Calls:
+	WSACleanup
+	CertCloseStore
+	GetVersion
+	GetProcessWindowStation
+	CryptAcquireContextW
+	_strtod_l
+	_access_s
+	_aligned_free
+	___lc_codepage_func
+	memchr
+	__p___argc
+	__acrt_iob_func
+	_isctype_l
+	__daylight
+	qsort
+	_mbtowc_l
+	__setusermatherr
+	_getch
+	__p__environ
+	WTSSendMessageW
+	GetSystemTimeAsFileTime
+	GetUserObjectInformationW
+	LocalAlloc
+	LocalFree
+	GetModuleFileNameW
+	GetProcessAffinityMask
+	SetProcessAffinityMask
+	SetThreadAffinityMask
+	Sleep
+	ExitProcess
+	FreeLibrary
+	LoadLibraryA
+	GetModuleHandleA
+	GetProcAddress
+	GetProcessWindowStation
+	GetUserObjectInformationW
+PE Header Information:
+	Machine: 0x8664
+	Characteristics: 0x22
+	Sections: 9
+	EntryPoint: 0xbd48cf
+
+File: loader (1) 2.exe
+Signature: 8e38947a40d3b81c1c217673194f5418a1abd5df752313d475ac04e2dd42c200
+File Size (Bytes): 8250368
+Has Cheat API Calls: True
+API Hash ID: 5daf34363d57d0d7cc20d390437a57951ea2282a0f67ba70e3babd0968ee955f
+Detected API Calls:
+	WSACleanup
+	CertCloseStore
+	GetVersion
+	GetProcessWindowStation
+	CryptAcquireContextW
+	_strtod_l
+	_access_s
+	_aligned_free
+	___lc_codepage_func
+	memchr
+	__p___argc
+	__acrt_iob_func
+	_isctype_l
+	__daylight
+	qsort
+	_mbtowc_l
+	__setusermatherr
+	_getch
+	__p__environ
+	WTSSendMessageW
+	GetSystemTimeAsFileTime
+	GetUserObjectInformationW
+	LocalAlloc
+	LocalFree
+	GetModuleFileNameW
+	GetProcessAffinityMask
+	SetProcessAffinityMask
+	SetThreadAffinityMask
+	Sleep
+	ExitProcess
+	FreeLibrary
+	LoadLibraryA
+	GetModuleHandleA
+	GetProcAddress
+	GetProcessWindowStation
+	GetUserObjectInformationW
+PE Header Information:
+	Machine: 0x8664
+	Characteristics: 0x22
+	Sections: 9
+	EntryPoint: 0x111cb1c
+
