@@ -23,3 +23,8 @@ def generate_api_hash(api_calls):
     api_hash_id = hasher.hexdigest()
 
     return api_hash_id
+
+
+Loader must be executed before valorant is loaded, it will auto-locate +open obs and create an obs folder 'rippah' where it views the game externally to work - detects players through this:
+
+If player outline color (e.g purple) is under the mouse cursor it will shoot, uses normal mouse clicks as the method requires a gap in the middle of the players crosshair if the middle of their crosshair is not clear then it will not detect the player 
